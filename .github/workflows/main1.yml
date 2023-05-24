@@ -1,4 +1,5 @@
-name: "Do things every 1 minutes"
+---
+name: Do things every 1 minutes
 on:
   schedule:
     - cron: "*/1 * * * *"
